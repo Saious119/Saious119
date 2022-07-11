@@ -6,7 +6,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/Saious119)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/Saious119)
 
-![Metrics](/github-metrics.svg)
+![Metrics](github-metrics.svg)
 
 - 🔭 I’m currently working on Dungeon-Redux, a turn based Rogue Like written in C# and my Discord Bots
 - 🌱 I’m currently learning new things with C#
