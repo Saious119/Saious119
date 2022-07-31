@@ -241,14 +241,14 @@ Perpetual supporter of Open Source software</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.46840248219166" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="157.46840248219166" y="0" width="68.15403639433475" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="225.62243887652642" y="0" width="59.2151719077776" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="284.83761078430405" y="0" width="43.11036007643179" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="327.94797086073584" y="0" width="42.79956203283621" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="370.74753289357204" y="0" width="42.12844676050194" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="412.875979654074" y="0" width="26.891523805611705" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="439.76750345968566" y="0" width="20.23249654031437" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.50958108598346" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="157.50958108598346" y="0" width="67.91948923460004" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="225.4290703205835" y="0" width="59.01138720009261" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="284.4404575206761" y="0" width="42.98342666216844" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="327.4238841828445" y="0" width="42.96199890743859" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="370.38588309028313" y="0" width="42.6522704527072" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="413.03815354299036" y="0" width="26.798978582126317" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="439.8371321251167" y="0" width="20.162867874883368" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -271,6 +271,12 @@ Perpetual supporter of Open Source software</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
@@ -280,12 +286,6 @@ Perpetual supporter of Open Source software</div>
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1603,7 +1603,7 @@ Perpetual supporter of Open Source software</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2022, 02:25:35  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 31 Jul 2022, 03:59:46  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
