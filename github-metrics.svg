@@ -241,14 +241,14 @@ Perpetual supporter of Open Source software</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.74788809347024" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="157.74788809347024" y="0" width="67.40729325730936" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="225.1551813507796" y="0" width="58.56636920188846" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="283.721550552668" y="0" width="44.314817668567265" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="328.0363682212353" y="0" width="43.02531485969656" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="371.06168308093186" y="0" width="42.33062019304857" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="413.3923032739805" y="0" width="26.596881523094382" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="439.98918479707487" y="0" width="20.010815202925148" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.53094951965116" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="157.53094951965116" y="0" width="67.31459317592646" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="224.8455426955776" y="0" width="58.48582736540509" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="283.3313700609827" y="0" width="44.88647762359173" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="328.2178476845744" y="0" width="42.96614544350602" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="371.18399312808043" y="0" width="42.27240613716139" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="413.4563992652418" y="0" width="26.560304871480273" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="440.0167041367221" y="0" width="19.983295863277903" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1597,7 +1597,7 @@ Perpetual supporter of Open Source software</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2022, 19:17:38  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 20:22:39  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
