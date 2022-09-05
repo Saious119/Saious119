@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -85,7 +85,7 @@ Perpetual supporter of Open Source software</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            796 Commits
+                            797 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -193,7 +193,7 @@ Perpetual supporter of Open Source software</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.70m added, 1.53m removed
+                                    792k added, 116k removed
                                 </div>
                             </section>
                             <section>
@@ -241,14 +241,14 @@ Perpetual supporter of Open Source software</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.71811769960195" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="165.71811769960195" y="0" width="64.72711325630544" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="230.44523095590736" y="0" width="56.23771300044258" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="286.6829439563499" y="0" width="44.159856436995454" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="330.8428003933454" y="0" width="43.75391966552188" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="374.5967200588673" y="0" width="40.647513274062476" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="415.24423333292975" y="0" width="25.539363463807245" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="440.78359679673696" y="0" width="19.216403203262992" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.7466180816449" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="165.7466180816449" y="0" width="64.72084461536186" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="230.46746269700674" y="0" width="56.2322665343088" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="286.69972923131553" y="0" width="44.15557967768707" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="330.8553089090026" y="0" width="43.749682220061096" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="374.60499112906365" y="0" width="40.64357667542327" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="415.2485678044869" y="0" width="25.53689004746859" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="440.7854578519555" y="0" width="19.214542148044426" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1364,7 +1364,7 @@ Perpetual supporter of Open Source software</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        758
+                                        759
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1599,7 +1599,7 @@ Perpetual supporter of Open Source software</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 02:29:23  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 04:49:44  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
